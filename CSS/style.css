@@ -1,0 +1,31 @@
+.navbar{
+    border-bottom: 5px solid #009FE3;
+    opacity: .6;
+    font-size: 1.3rem;
+}
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.left1 span{
+    text-transform: lowercase;
+}
+.left1 p{
+    font-size: 1.08rem;
+}
+#explore{
+    background-color: #333333;
+}
+#explore a:hover{
+    background-color:#333333;
+    background-color: #009FE3;
+}
+#explore-details p{
+    font-size: 1.1rem;
+    padding-left: 3px;
+}
+#create-details{
+    background-color: #333333;
+}
